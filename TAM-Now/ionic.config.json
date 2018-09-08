@@ -1,0 +1,7 @@
+{
+  "name": "TAM-Now",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
